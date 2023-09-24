@@ -47,25 +47,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikchalla7&theme=tokyonight" display=block width=90% height=200px alt="3" >
  </div>
 
-<!--
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=karthikchalla7&theme=react" />
+<div class="center">
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
--->
+<a href="https://github.com/karthikchalla7/github-stats">
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="my overview" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="my languages" src="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg">
-</picture>
-
-</a>
 
 --- 
 
