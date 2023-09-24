@@ -19,6 +19,14 @@
 
 --- 
 
+<div class="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
+ </div>
+ 
+ <div class="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreeSaiBhavesh&theme=tokyonight" display=block width=90% height=200px alt="3" >
+ </div>
+
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=karthikchalla7&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
@@ -39,39 +47,6 @@
 </a>
 
 --- 
-<!--
-
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/karthikchalla7/Intelli-Kanban)
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
-
-#### Frontend Projects :
-
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-
-#### GitBook
-* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
-
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
--->
----
 
 ### :hammer_and_wrench: Languages and Tools 
 
@@ -92,18 +67,6 @@
 ---
 
 
-
----
-
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 🔗 Social info
 
