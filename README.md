@@ -1,39 +1,122 @@
-<h1 align="center">Hi👋 Myself Karthik</h1>
-<br>
-<h3 align="center">I am a Pre-final Year B.Tech Student pursuing Computer Science and Engineering from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneeling interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
 
- 📫 How to reach me: *challakarthikreddy7@gmail.com*
+<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
 
-<br>
-<ul>
-<li>🌱 I'm currently working in Data Field</li>
-<li> 😎 I'm currently working on projects based on Web Development, Data Analysis</li>
-<li>👯 I'm open to collaborate with other content creators</li>
-</ul>
-👀 I’m Keenly interested in fields of Data Science.
-<h3 align="left">Connect with me:</h2>
-<a href="https://www.instagram.com/karthik__challa/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
-<!--<a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40"> -->
-<a href="https://www.linkedin.com/in/karthik-challa-aa12a1234/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<!-- 
- 
- <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikchalla7&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-</table> -->
- 
- <div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
- </div>
- 
- <div class="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikchalla7&theme=tokyonight" display=block width=90% height=200px alt="3" >
- </div>
-<!-- https://github-readme-stats.vercel.app/api?username=karthikchalla7&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff -->
-<span>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-</span>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+I+am+Karthik+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+
+---
+### 👦 About Me
+- 👨‍💻 I'm a B-Tech CSE Final year student at VIT Vellore
+
+- 🔭 I’m currently exploring **open source** and learning **DSA**
+
+- 🌱 I’m interested in **Data Science**
+
+- ⚡ Fun fact : I can type the entire alphabet in less than two seconds, but I still struggle to find the semicolon on my keyboard!
+
+
+--- 
+
+### 🔥 My Stats 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=karthikchalla7&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/getlost01/github-stats">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="my overview" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="my languages" src="https://github.com/karthikchalla7/github-stats.github.io/blob/master/generated/languages.svg">
+</picture>
+
+</a>
+
+--- 
+<!--
+
+### ⚙️ My Projects 
+
+#### Full-Stack Projects :
+* [Intelli-Kanban](https://github.com/karthikchalla7/Intelli-Kanban)
+* [Web Tools](https://github.com/getlost01/web-tools-gl01)
+* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
+* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
+* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [Meal Planner](https://github.com/getlost01/meal-planner-API)
+* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
+* [ABitShort](https://github.com/getlost01/linkshortner)
+* [File Share App](https://github.com/getlost01/dlink-share)
+
+#### Web Store Extensions 
+
+* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
+* [Site Saver](https://github.com/getlost01/site-saver)
+* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
+
+#### Frontend Projects :
+
+* [Country Search](https://github.com/getlost01/country-search)
+* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+
+#### GitBook
+* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
+
+<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+-->
+---
+
+### :hammer_and_wrench: Languages and Tools 
+
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://karthikchalla7.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/karthik-challa-aa12a1234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=challakarthikreddy7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://karthikchalla7.github.io/karthiks-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
+---
