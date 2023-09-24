@@ -46,8 +46,7 @@
  </div>
 
 <div class="center">
-<!--<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />-->
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&theme=tokyonight&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/karthikchalla7/github-stats">
 </div>
 
