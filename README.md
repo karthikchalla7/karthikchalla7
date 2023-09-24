@@ -1,13 +1,16 @@
 <div id="header" align="center">
-  <img />
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </div>
 
-<h2 align="center">Hi 👋, I'm Karthik</h2>
+<h1 align="center">Hi 👋, I'm Karthik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+I+am+Karthik+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&size=25&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+page.+Nice+to+see+you.;I+am+Computer+Scinece+Student+and+Upcoming+SDE+@Accenture.;Passionate+about+learning+and+OpenSource.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
+<img src="https://komarev.com/ghpvc/?username=karthikchalla7&label=Profile%20views&color=0e75b6&style=flat" alt="karthikchalla7" />
+
 - 👨‍💻 I'm a B-Tech CSE Final year student at VIT Vellore
 
 - 🔭 I’m currently exploring **open source** and learning **DSA**
@@ -37,33 +40,15 @@
 
 ---
 ### 🔥 My Stats 
-<div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=tokyonight&show_icons=true"  display=block width=90% height=200px  alt="3" >
- </div>
- 
- <div class="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikchalla7&theme=tokyonight" display=block width=90% height=200px alt="3" >
- </div>
 
-<div class="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&count_private=true&show_icons=true&theme=tokyonight" />  <img width="425" src="https://streak-stats.demolab.com/?user=karthikchalla7&theme=tokyonight" /><br>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/karthikchalla7/github-stats">
-</div>
+
 
 --- 
 
-### Languages and Tools 
+### Languages and Tools
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikchalla7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karthikchalla7">
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
-</div>
+
+
