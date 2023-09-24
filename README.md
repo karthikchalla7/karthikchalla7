@@ -11,13 +11,12 @@
 - 👨‍💻 I'm a B-Tech CSE Final year student at VIT Vellore
 
 - 🔭 I’m currently exploring **open source** and learning **DSA**
-
+  
 - 🌱 I’m interested in **Data Science**
 
+- 👯 I'm open to collaborations and work anytime. 
+
 - ⚡ Fun fact : I can type the entire alphabet in less than two seconds, but I still struggle to find the semicolon on my keyboard!
-
-
---- 
 
 ---
 
@@ -35,12 +34,11 @@
     </a>
 </div>
 
----
 
 ---
 ### 🔥 My Stats 
 <div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=tokyonight&show_icons=true"  display=block width=90% height=200px  alt="3" >
  </div>
  
  <div class="center">
@@ -48,11 +46,10 @@
  </div>
 
 <div class="center">
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<!--<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />-->
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchalla7&theme=tokyonight&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/karthikchalla7/github-stats">
 </div>
-
-
 
 --- 
 
