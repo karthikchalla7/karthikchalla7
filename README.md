@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Karthik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&size=25&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Page.+Nice+to+see+you.;I+am+Computer+Science+Student+and+Upcoming+SDE+@Accenture.;Passionate+about+learning+and+OpenSource.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&size=25&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Page.+Nice+to+see+you.;I+am+a+Computer+Science+Student+and+Upcoming+SDE+@Accenture.;Passionate+about+learning+and+exploring+OpenSource.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
