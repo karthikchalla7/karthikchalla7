@@ -13,9 +13,9 @@
 
 - 👨‍💻 I'm a B-Tech CSE Final year student at VIT Vellore
 
-- 🔭 I’m currently exploring **Open Source and Data Engineering**
+- 🔭 I’m currently exploring **Open Source and Data Engineering using java**
   
-- 🌱 I’m interested in **Data Science**
+- 🌱 I’m interested in **Java And its applications**
 
 - 👯 I'm open to collaborations and work anytime. 
 
