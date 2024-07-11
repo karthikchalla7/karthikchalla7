@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently exploring **Open Source and Data Engineering using java**
   
-- 🌱 I’m interested in **Java And its applications**
+- 🌱 I’m interested in **Java And It's Applicatios**
 
 - 👯 I'm open to collaborations and work anytime. 
 
